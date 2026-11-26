@@ -1,13 +1,5 @@
-Hi, I'm Darsy.
-
-I work on container image acceleration at Ant Group — specifically **Dragonfly** (P2P distribution) and **Nydus** (lazy loading / on-demand imaging). My day job is making big images behave like small ones.
-
-Before Ant, I spent five years at Alibaba Cloud working across cloud-native storage and AI infra: large-scale container storage platforms, image lazy loading, FUSE-based multi-tier caching — plus some early exploration into the cold-start path of LLM inference services.
+Hi, I'm Lei Huang (Darsy), currently working on container images for AI agents at Ant Group. I work on image building, on-demand loading, and distribution acceleration with Nydus/RAFS, Dragonfly. Previously at Alibaba Cloud, I worked on cloud-native container storage and AI inference infrastructure, including Kubernetes/CSI, DADI/OverlayBD, FUSE-based multi-tier caching, and vLLM cold-start optimization. My interests lie at the intersection of containers, filesystems, and storage, with a focus on faster startup and more efficient data access for agents and inference services.
 
 ---
 
-你好，我是 Darsy（黄雷）。
-
-现在蚂蚁集团做容器镜像加速，主要围绕两个开源项目：**Dragonfly**（P2P 分发）与 **Nydus**（镜像按需加载）。我的日常，是让大镜像表现得像小镜像。
-
-加入蚂蚁前，我在阿里云做了五年云原生存储与 AI Infra：超大规模容器存储平台、镜像按需加载、FUSE 多级缓存，也调研过一段时间大模型推理的冷启动链路。
+你好，我是黄雷（Darsy），目前在蚂蚁集团从事 Agent 镜像相关工作，围绕 Nydus/RAFS、Dragonfly，开展容器镜像构建、按需加载与分发加速相关工作。此前在阿里云从事云原生容器存储和 AI 推理基础设施研发，涉及 Kubernetes/CSI、DADI/OverlayBD、FUSE 多级缓存及 vLLM 冷启动优化。我关注容器、文件系统与存储的交叉领域，致力于让 Agent 和推理服务启动更快、数据访问更高效。
